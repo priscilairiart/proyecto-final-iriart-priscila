@@ -1,0 +1,22 @@
+footer {
+  margin-top: auto;
+  background-color:$color-footer;
+  padding: 5px;
+  text-align: center;
+}
+
+footer.redes {
+  display:flex;
+  align-items:center;
+  margin-bottom: 30px;
+  
+}
+
+footer.redes a {
+  color: $color-texto;
+  text-decoration: none;
+ 
+}
+.footer-tex{
+text-align: end;
+}

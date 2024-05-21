@@ -1,0 +1,17 @@
+
+@mixin container {
+    width: 100%;
+    height: 100%;
+   display:grid;
+  margin: 2px;
+  grid-template-columns: auto;
+  gap: 10px;
+  
+
+}
+.container-grid {
+    @include container()
+  }
+  .grid-texto{
+    margin: 10px ;
+  }
