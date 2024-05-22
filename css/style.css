@@ -61,6 +61,7 @@ textarea {
 
 .formulario-titulo {
   margin: 15px;
+  border-radius: 5px;
 }
 
 .navbar-brand img {
