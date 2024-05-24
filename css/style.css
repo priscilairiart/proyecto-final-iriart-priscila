@@ -57,11 +57,11 @@ textarea {
 
 .boton {
   display: block;
+  border-radius: 5px;
 }
 
 .formulario-titulo {
   margin: 15px;
-  border-radius: 5px;
 }
 
 .navbar-brand img {
